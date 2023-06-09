@@ -7,7 +7,11 @@ root.title("Bingo")
 words = ["Keine\n Nazis", "WHO", "Wir\n sind\n friedlich", "gegen\n Masken", "Impfpflicht", "Trommeln", "Spazieren\n gehen",
         "ü60", "Klimawandel\n leugnen", "AFD\n propaganda", "Tagesschau\n durchsage", "Björn Höcke", "Russland\n macht\n doch\n nichts", "Frieden\n stat\n Krieg",
         "Nato\n ist\n schuld", "Redet\n obv.\n Müll", "euer Micha", "15\n Leute\n maximal", "Banger\n Musik", "klein\n Kinder", "Antifanten",
-        "Diktatur", "Regierung\n muss\n weg!", "Amerikaner\n sind\n Kriegstreiber", "Freiheit"]
+        "Diktatur", "Regierung\n muss\n weg!", "Amerikaner\n sind\n Kriegstreiber", "Freiheit", "Wir\n sind\n die\n Rote\n Linie", "Wir\n sind\n das\n Volk",
+        "Corona\n ist\n Fake", "Sänger", "Schlechte\n Audio", "Volksverräter", "Merkel\n muss\n weg", "Merkel\n ist\n schuld", "Bill\n Gates", "Impfen\n ist\n schlecht"
+        "Wir \n sind\n das\n Volk", "Deutschland\n ist\n eine\n Diktatur", "Fake\n Pademie", "Wärmepumpe", "meine\n Kinder",
+        "Frieden\n schaffen\n ohne\n Waffen", "Medien\n sind\n scheiße", "Putin\n will\n nur\n helfen", "Olaf\n ist\n ein\n Diktatorin", 
+        "Alternative\n Medien\n sind\n Wichtig", "Spenden"]
 
 random.shuffle(words)
 
